@@ -1,0 +1,7 @@
+C:\Users\pc\Desktop\learn\season 5\prn201\demo oop\bin\Debug\demo oop.exe.config
+C:\Users\pc\Desktop\learn\season 5\prn201\demo oop\bin\Debug\demo oop.exe
+C:\Users\pc\Desktop\learn\season 5\prn201\demo oop\bin\Debug\demo oop.pdb
+C:\Users\pc\Desktop\learn\season 5\prn201\demo oop\obj\Debug\demo oop.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\learn\season 5\prn201\demo oop\obj\Debug\demo oop.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\learn\season 5\prn201\demo oop\obj\Debug\demo oop.exe
+C:\Users\pc\Desktop\learn\season 5\prn201\demo oop\obj\Debug\demo oop.pdb
